@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @YaxuanDai
-- 👀 I’m finding my new research direction after working on autonomous driving.
-- 🌱 I’m currently reading [Physically Based Rendering](https://pbr-book.org/4ed/contents) and [Physical-based Deep Learning](https://www.physicsbaseddeeplearning.org/overview.html).
 - 📫 How to reach me: [mail](yaxuan.dai@tum.de)
 
 <!---
